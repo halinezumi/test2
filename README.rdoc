@@ -1,6 +1,6 @@
 == 説明
 
-SME_PROJECT はSME_OSのDashBoardのプロジェクトです。
+HOGEのプロジェクトです。
 
 == システム要件
 
