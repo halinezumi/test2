@@ -10,7 +10,7 @@ gem 'mysql2', '0.4.4'
 
 # Use Puma as the app server
 # uniconを使うのでコメントアウト
-gem 'puma', '~> 3.0'
+# gem 'puma', '~> 3.0'
 
 # Use SCSS for stylesheets
 # スタイルシート言語なので入れておく
