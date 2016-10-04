@@ -25,7 +25,7 @@ SME_PROJECT はSME_OSのDashBoardのプロジェクトです。
 
 - このシステム専用のデータベースを MySQL 上に作成してください。
 - データベースへの接続パラメータに基づいて config/database.yml を修正してください。
- -> TODO 書いてしまうこと
+ -> TODO テーブル初期化/データ投入書いてしまうこと
 - RAILS_ENV=production bin/rake db:setup コマンドを実行してください。
 
 == テスト起動方法
