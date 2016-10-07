@@ -42,12 +42,15 @@ gem 'rails-i18n', '5.0.1'
 
 # for Only Development Environment
 group :development do
-  # pre-loader
-  gem 'spring', '2.0.0'
 end
 
 # for Development/Staging Environment
 group :test do
+end
+
+group :development, :test do
+  # pre-loader
+  gem 'spring', '2.0.0'
   # RSpec
   gem 'rspec-rails', '3.5.0'
   # For connect the spring and RSpec
