@@ -6,7 +6,7 @@ HOGEのプロジェクトです。
 
 * TODO OSを記入
 * Ruby 2.3.1
-* MySQL 5.6
+* MySQL 5.7.15
 
 == 準備作業
 
